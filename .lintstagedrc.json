@@ -1,0 +1,3 @@
+{
+  "*.ts": ["npx prettier --write .", "git add"]
+}
