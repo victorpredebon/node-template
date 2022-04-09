@@ -10,6 +10,6 @@ Simple template for typescript nodejs projects, with common tools to develop, ma
 - Jest
 - Commit message linter
 
-## Autores
+## Authors
 
 - [victorpredebon](https://github.com/victorpredebon)
